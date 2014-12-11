@@ -1,9 +1,10 @@
-maintainer       "Pedro Axelrud"
-maintainer_email "pedroaxl@gmail.com"
+name             "sqlite-dev"
+maintainer       "Mike Beasterfeld"
+maintainer_email "mikebeasterfeld@gmail.com"
 license          "MIT"
 description      "Installs sqlite dev libs"
 long_description "Please refer to README.md"
-version          "0.0.1"
+version          "0.0.2"
 
 recipe "sqlite-dev", "Installs sqlite development packages"
 
